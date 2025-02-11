@@ -2,4 +2,4 @@
 
 # Autor: Leidy Mariana
 
-Este es un artículo README.md. Aquí se debe decir lo que hay en el repositorio
+Este es un artículo README.md. Aquí se debe decir lo que hay en el repositorio.
