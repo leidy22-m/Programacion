@@ -4,4 +4,4 @@
 
 Este es un artículo README.md. Aquí se debe decir lo que hay en el repositorio.
 
-Este es mi repositorio
+Este es mi repositorio.
